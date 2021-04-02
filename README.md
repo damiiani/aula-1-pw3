@@ -1,5 +1,5 @@
-# Aula 01 - Fundamentos 01
+# Fundamentos do React
 
-Fundamentos básicos do ReactJS
+Fundamentos básicos do React
 
 Autor: Gustavo Damiani
